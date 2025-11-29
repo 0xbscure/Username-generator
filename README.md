@@ -3,7 +3,7 @@ Generating user list from username you have been collected, useful for userenum 
 
 ### Usage
 ```
-usage: generate.py [-h] -w wordlist [-u]
+usage: generate.py [-h] -w wordlist [-w]
 
 Generate Username from user you have been collected
 
